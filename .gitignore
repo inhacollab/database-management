@@ -1,1 +1,6 @@
 .venv/
+healthcare.db
+*.db
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
